@@ -25,6 +25,3 @@ Ran 9 aggregation queries comparing members and casual riders across ride volume
 
 ## Recommendation
 Casual riders are recreational users, not lapsed commuters. The conversion pitch that works is showing them a membership is the cheaper version of what they already do — not a commuter product. A leisure-first campaign at top casual stations with in-app prompts and geo-targeted weekend ads projects 15,000 to 20,000 conversions annually, or $1.785M to $2.38M in new recurring revenue at roughly 9x return on a $150K to $200K campaign spend.
-
-## Files
-- `Christopher_Budhram_SQL_Project.pdf` — all 35 BigQuery queries with results and observations
